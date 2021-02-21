@@ -294,7 +294,7 @@ video {
 
 /* MOBILE SECTION */
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 900px){
     header span {
         display: none;
     }
@@ -401,19 +401,19 @@ video {
     }
 
     video {
-        margin: 0px;
+        margin: 0px auto;
         height: auto;
         width: 100%;
     }
 
     .video-section {
-        margin: 0px 0px 24px 0px;
+        margin: 0px auto;
     }
 
 
 }
 
-@media only screen and (min-width: 600px){
+@media only screen and (min-width: 900px){
     .mobile-buttons {
         display: none;
     }
