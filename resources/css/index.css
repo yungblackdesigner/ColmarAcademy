@@ -298,6 +298,10 @@ video {
     header span {
         display: none;
     }
+
+    .logo {
+        display: none;
+    }
     .nav-buttons {
         display: none;
     }
@@ -331,7 +335,7 @@ video {
 
     .mobile-info-section img {
         margin: 16px 16px 0px 16px;
-        width: 448px; 
+        width: 420px; 
     }
 
 
@@ -374,7 +378,7 @@ video {
     .mobile-classes div {
         background-color:rgb(141, 141, 141);
         height: 60px;
-        width: 440px;
+        width: 400px;
         margin: 8px auto;
         display: flex;
         align-items: center;
